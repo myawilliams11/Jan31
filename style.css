@@ -1,18 +1,10 @@
-html {background-color: blueviolet;
-    color: antiquewhite;
-    width: 236px;
-}
-
-.h1 {
-}
-
-body {   
+body { background-color: blueviolet;
+    color: antiquewhite;  
     
 }
 
-h2 {
+#container {
   display: flex; 
-  flex-direction:column;
   flex-wrap: wrap;
   height: 100px;
   max-height: 450px;
